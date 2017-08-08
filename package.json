@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http.js",
+  "scripts": {
+    "dev": "node_modules/.bin/light-server -s . -p 600 -w page.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
