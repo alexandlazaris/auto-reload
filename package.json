@@ -1,11 +1,15 @@
 {
-  "name": "nodejs-start",
+  "name": "auto-reload",
   "version": "1.0.0",
   "description": "",
   "main": "http.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandlazaris/auto-reload.git"
+  },
   "scripts": {
     "dev": "node_modules/.bin/light-server -s . -p 600 -w page.html"
   },
-  "author": "",
+  "author": "Alexander Lazaris",
   "license": "ISC"
 }
