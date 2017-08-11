@@ -1,5 +1,5 @@
 {
-  "name": "auto-reload",
+  "name": "auto-reload-files",
   "version": "1.0.0",
   "description": "",
   "main": "http.js",
@@ -10,6 +10,6 @@
   "scripts": {
     "dev": "node_modules/.bin/light-server -s . -p 600 -w page.html"
   },
-  "author": "Alexander Lazaris",
+  "author": "Alexander Lazaris alex.lazaris617@gmail.com",
   "license": "ISC"
 }
